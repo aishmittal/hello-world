@@ -1,2 +1,3 @@
 # hello-world
-just practicing
+hi myself aishwarya mittal just started GitHub how are yiu!!!
+
